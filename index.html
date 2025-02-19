@@ -11,9 +11,13 @@
       rel="stylesheet"
     />
     <title>Ajay Wankhade</title>
-    <!-- Google Analytics -->
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <!-- ✅ Move Google Analytics script here -->
     <script
-      defer
+      async
       src="https://www.googletagmanager.com/gtag/js?id=G-C00TJR4QBW"
     ></script>
     <script>
@@ -24,9 +28,7 @@
       gtag("js", new Date());
       gtag("config", "G-C00TJR4QBW");
     </script>
-  </head>
-  <body>
-    <div id="root"></div>
+
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
