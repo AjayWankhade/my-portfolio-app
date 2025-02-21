@@ -43,7 +43,7 @@ const Hero = () => {
             </a>
           </h3>
           <p className="md:text-base text-pretty text-sm text-green-400">
-            Software Developer with 1.8 years of experience specializing in
+            Software Developer with 2+ years of experience specializing in
             Spring Boot framework for developing robust and scalable
             applications. Proficient in core Java concepts, Spring MVC, Spring
             Data JPA, RESTful web services.
